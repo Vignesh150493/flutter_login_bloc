@@ -1,8 +1,10 @@
-Simple login screen.
-Just validate email and password.
-Not logging in. No authentication involved. Just plain client validation. 
+# Simple login screen.
 
-Concepts Introduced
+###### Just validate email and password.
+
+###### Not logging in. No authentication involved. Just plain client validation. 
+
+###### Concepts Introduced
 -> Dart Mixins
 -> Dart getters
 -> Introducing Streams
@@ -18,5 +20,6 @@ Concepts Introduced
 -> Use RxDart to combine email and password streams, to enable/disable the submit button.
 -> RxDart
     -> Help us work with streams.
-    -> Here         Stream           ====> Observable
-                    StreamController ====> Subject     
+    
+    Stream           ====> Observable
+    StreamController ====> Subject     
