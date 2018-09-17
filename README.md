@@ -5,20 +5,22 @@
 ###### Not logging in. No authentication involved. Just plain client validation. 
 
 ###### Concepts Introduced
--> Dart Mixins
--> Dart getters
--> Introducing Streams
-    -> StreamBuilder
-    -> StreamTransformer
-    -> StreamController
 
--> Bloc pattern
+### Dart Mixins
+### Dart getters
+### Introducing Streams
+    - StreamBuilder
+    - StreamTransformer
+    - StreamController
+
+### Bloc pattern
     -> Single global instance
     -> Scoped instance
         -> Inherited Widgets
 
 -> Use RxDart to combine email and password streams, to enable/disable the submit button.
--> RxDart
+
+### RxDart
     -> Help us work with streams.
     
     Stream           ====> Observable
